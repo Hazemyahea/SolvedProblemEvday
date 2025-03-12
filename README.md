@@ -1,3 +1,3 @@
 # SolvedProblemEvday
   
-1- (https://leetcode.com/problems/reverse-prefix-of-word)[Reverse Prefix of Word]
+1- [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)
